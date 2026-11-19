@@ -1,0 +1,9 @@
+Suspension Studio - credits for the 3D car models
+
+The car bodies are community models from Sketchfab, used with credit under their licences. They were simplified and converted for this guide. They are not official BYD files.
+
+ATTO 2: "2024 BYD Atto 2" by Ddiaz Design, licensed under CC BY-NC-SA 4.0
+  https://sketchfab.com/3d-models/2024-byd-atto-2-2e04b67017ed49e982a1f0737eb7f0ae
+
+SEALION 6: "2022 BYD Song Plus EV" by Ddiaz Design, licensed under CC BY-NC-SA 4.0
+  https://sketchfab.com/3d-models/2022-byd-song-plus-ev-dbc8a20d557042c5be32dd60bf470ae1
